@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "1546216-3")(type "Legacy")(uri "D:/# Arquivos/1- Acadêmico , Financeiro e Profissional/1- Acadêmico/A. FIAP/2022/Challenge/Carro-Autonomo_Circuitos/libs/1546216-3/1546216-3.lib")(options "")(descr ""))
+  (lib (name "ESP8266")(type "Legacy")(uri "D:/# Arquivos/1- Acadêmico , Financeiro e Profissional/1- Acadêmico/A. FIAP/2022/Challenge/Carro-Autonomo_Circuitos/libs/kicad-ESP8266-master/ESP8266.lib")(options "")(descr ""))
+  (lib (name "1546216-2")(type "Legacy")(uri "D:/# Arquivos/1- Acadêmico , Financeiro e Profissional/1- Acadêmico/A. FIAP/2022/Challenge/Carro-Autonomo_Circuitos/libs/1546216-2/1546216-2.lib")(options "")(descr ""))
+  (lib (name "XL4005_DC-DC")(type "Legacy")(uri "D:/# Arquivos/1- Acadêmico , Financeiro e Profissional/1- Acadêmico/A. FIAP/2022/Challenge/Carro-Autonomo_Circuitos/libs/XL4005/XL4005_DC-DC.lib")(options "")(descr ""))
+)
